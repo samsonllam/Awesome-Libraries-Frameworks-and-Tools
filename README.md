@@ -16,9 +16,9 @@ An Array of Useful Frontend Library including Machine Learning、Android、iOS�
 
 * [Element](https://element.eleme.io/#/en-US)
 
-### Network / Graph
+### Network/Graph
 
-* [D3.js] (https://d3js.org/)
+* [D3.js](https://d3js.org/)
 * [Cytoscape.js](http://js.cytoscape.org/)
 
 # Licence
