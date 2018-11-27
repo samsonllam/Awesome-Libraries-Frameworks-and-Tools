@@ -25,5 +25,4 @@ An Array of Useful Frontend Library including Machine Learning、Android、iOS�
 
 MIT License
  
-Copyright (c) 2018 Samson Lam
-
+Copyright (c) 2018 Samson Lam, Cedric Poon
