@@ -1,6 +1,6 @@
-# Useful Library
+# Awesome Libraries Frameworks and Tools
 
-An Array of Useful Frontend Library including Machine Learning、Android、iOS、React、FrontEnd、BackEnd、UIUX.
+Awesome Libraries Frameworks and Tools including Machine Learning、Android、iOS、React、FrontEnd、BackEnd、UIUX.
 
 # Library List
 
