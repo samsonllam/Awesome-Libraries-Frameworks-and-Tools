@@ -14,7 +14,7 @@ Awesome Libraries Frameworks and Tools including Machine Learning、Android、iO
 
 #### CSS
 
-* [NES.css](https://github.com/BcRikko/NES.css)
+* [NES.css](https://bcrikko.github.io/NES.css/)
 
 #### Vue.js
 
