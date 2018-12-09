@@ -42,12 +42,8 @@ Awesome Libraries Frameworks and Tools including Machine Learning、Android、iO
 
 * [CodeSandbox](https://codesandbox.io/)
 
-### Collaborating IDE
-
-* [Cloud9](https://aws.amazon.com/cloud9/?origin=c9io)
-
 # Licence
 
 MIT License
 
-Copyright (c) 2018 Samson Lam, Cedric Poon
+Copyright (c) 2018 Samson Lam
