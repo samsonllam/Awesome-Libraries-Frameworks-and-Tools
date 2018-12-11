@@ -8,6 +8,12 @@ Awesome Libraries Frameworks and Tools including Machine Learning、Android、iO
 
 ### UI/UX
 
+### Template
+
+#### HTML5
+
+* [HTML5 UP](https://html5up.net/)
+
 #### HTML
 
 * [Semantic UI](https://semantic-ui.com/)
@@ -30,7 +36,7 @@ Awesome Libraries Frameworks and Tools including Machine Learning、Android、iO
 * [Cytoscape.js](http://js.cytoscape.org/)
 * [AntV](https://antv.alipay.com/)
 
-### Git
+### Github
 
 #### Badge
 
@@ -41,9 +47,3 @@ Awesome Libraries Frameworks and Tools including Machine Learning、Android、iO
 ### Web Application Development
 
 * [CodeSandbox](https://codesandbox.io/)
-
-# Licence
-
-MIT License
-
-Copyright (c) 2018 Samson Lam
