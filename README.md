@@ -8,7 +8,7 @@ Awesome Libraries Frameworks and Tools including Machine Learning、Android、iO
 
 ### UI/UX
 
-### Template
+### Component
 
 #### HTML5
 
