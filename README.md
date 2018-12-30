@@ -53,3 +53,5 @@ Awesome Libraries Frameworks and Tools including Machine Learning、Android、iO
 
 * [Travis CI](https://travis-ci.org/)
 * [AppVeyor](https://www.appveyor.com/)
+* [netlify](https://www.netlify.com/)
+* [Heroku](https://www.heroku.com/)
